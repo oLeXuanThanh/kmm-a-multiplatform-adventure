@@ -1,6 +1,7 @@
 # A Multiplatform Adventure
 
 Kotlin Multiplatform is here! 🙌
+https://www.cafonsomota.xyz/talks/2020-10-09-droidcon-emea-a-multiplatform-adventure/2020-10-09-droidcon-emea-a-multiplatform-adventure/
 
 I've created a codelab where you can follow step by step the development of android and iOS application using Kotlin Multiplatform:
 
